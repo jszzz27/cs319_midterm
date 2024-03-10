@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Soda",
+            "path_name": "soda",
+            "line1": "Indulge in the effervescent delight of refreshing soda, a tantalizing burst of fizz and flavor to uplift your senses.",
+            "main_img": "./images/main/mainsoda.jpg",
+            "line2": "<span>Fizz & Flavor:</span> <br>Discover the World of <strong>Soda</strong>",
+            "line2_1": "A refreshing companion for any occasion, adding sparkle to gatherings and moments of relaxation. Enjoy the effervescent delight of soda, a timeless beverage loved by all ages.",
+            "sub_img": "./images/main/top3soda.png"
+        },
+        {
+            "name": "Juice",
+            "path_name": "juice",
+            "line1": "Quench your thirst with nature's bounty - our vibrant selection of juices, bursting with vitamins and invigorating freshness.",
+            "main_img": "./images/main/mainjuice.jpg",
+            "line2": "<span>Juicy Journey:</span> <br>Dive into Natural <strong>Juices</strong>",
+            "line2_1": "A nourishing choice packed with vitamins and antioxidants, perfect for a healthy lifestyle. Indulge in the invigorating freshness of juice, a delicious and revitalizing way to hydrate your body.",
+            "sub_img": "./images/main/top3juice.png"
+        },
+        {
+            "name": "Water",
+            "path_name": "water",
+            "line1": "Experience pure hydration with our crisp, revitalizing water – the ultimate refreshment to keep you feeling balanced and energized.",
+            "main_img": "./images/main/mainwater.jpg",
+            "line2": "<span>Pure Hydration:</span> <br>Embrace the Essence of <strong>Water</strong>",
+            "line2_1": "A timeless necessity that quenches thirst and supports optimal bodily functions. Stay balanced and energized with the crisp purity of water, the ultimate refreshment for body and mind.",
+            "sub_img": "./images/main/top3water.png"
+        },
+        {
+            "name": "Beer",
+            "path_name": "beer",
+            "line1": "Embrace the rich complexity and timeless tradition of our meticulously crafted beers, each sip a journey of flavor and camaraderie.",
+            "main_img": "./images/main/mainbeer.jpg",
+            "line2": "<span>Raise Your Glass:</span> <br>Why <strong>Beer</strong> is the Perfect Choice",
+            "line2_1": "Fosters conviviality and shared moments, whether at the pub or a social gathering. Embrace the artistry and heritage behind each brew, ensuring a memorable and enjoyable experience with every sip.",
+            "sub_img": "./images/main/top3beer.png"
+        }
+    ]
+}
